@@ -2,8 +2,6 @@
 
 ## Project Overview
 This project analyzes healthcare medical billing and denial management data to identify denial trends, payer performance, provider efficiency, and revenue cycle insights using Python and Power BI.
-The project focuses on transforming raw healthcare claims data into actionable business insights through data cleaning, exploratory data analysis (EDA), KPI generation, and interactive dashboard visualization.## Project Overview
-This project analyzes healthcare medical billing and denial management data to identify denial trends, payer performance, provider efficiency, and revenue cycle insights using Python and Power BI.
 The project focuses on transforming raw healthcare claims data into actionable business insights through data cleaning, exploratory data analysis (EDA), KPI generation, and interactive dashboard visualization.
 
 ## Tools & Technologies Used
